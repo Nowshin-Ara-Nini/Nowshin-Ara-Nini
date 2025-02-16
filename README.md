@@ -1,8 +1,7 @@
 ## Hi, I’m Nowshin Ara Nini.
 - 📒 I'm currently studying Computer Science.
 - 👀 I’m interested in ML and Data science.
-- 🌱 I’m currently learning DSA and ML
-- 💞️ I’m looking to collaborate on .
+- 🌱 I’m currently learning DSA and ML.
 - 📫 You can reach me on linkedin(www.linkedin.com/in/nowshin-ara-nini).
 
 
