@@ -64,8 +64,7 @@ Machine Learning model for predicting travel agency types.
 # 📊 GitHub Stats:
 
 
-
-![Snake animation](https://raw.githubusercontent.com/Nowshin-Ara-Nini/Nowshin-Ara-Nini/output/github-contribution-grid-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nowshin-Ara-Nini&theme=tokyo-night)](https://github.com/Nowshin-Ara-Nini)
 ![](https://github-readme-stats.vercel.app/api?username=Nowshin-Ara-Nini&show_icons=true&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=Nowshin-Ara-Nini&theme=tokyonight)
