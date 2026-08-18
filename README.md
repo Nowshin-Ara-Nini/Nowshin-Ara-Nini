@@ -71,6 +71,9 @@ Machine Learning model for predicting travel agency types.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowshin-Ara-Nini&layout=compact&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=nowshin-ara-nini&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=nowshin-ara-nini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=nowshin-ara-nini&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nowshin-ara-nini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=nowshin-ara-nini&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
