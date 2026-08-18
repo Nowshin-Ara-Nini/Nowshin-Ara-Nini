@@ -64,11 +64,13 @@ Machine Learning model for predicting travel agency types.
 # 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowshin-Ara-Nini&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nowshin-Ara-Nini&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/Nowshin-Ara-Nini/Nowshin-Ara-Nini/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=Nowshin-Ara-Nini&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowshin-Ara-Nini&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Nowshin-Ara-Nini&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowshin-Ara-Nini&layout=compact&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=nowshin-ara-nini&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
